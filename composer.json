@@ -1,5 +1,5 @@
 {
-    "name": "signnow/api-php-sdk",
+    "name": "namewithin/api-php-sdk",
     "license": "MIT",
     "description": "Library gives you ability to communicate with SignNow API",
     "type": "library",
